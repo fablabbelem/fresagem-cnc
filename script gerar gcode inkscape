@@ -1,0 +1,20 @@
+## Criando gcode de texto com inkscape ##
+
+- Pré defina o tamanho da "folha" para o tamanho do material q vc tem;
+- Faça o texto q quer gerar o gcode;
+- Vá em (EXTENSIONS>GCODETOOLS>ORIENTATIONS POINTS);
+- Adicione o ponto de orientação para o dezenho - Deixando nas configurações padrões ele marcará o (0,0) na origem da folha no canto inferior esquerdo;
+- Selecione os desenhos e converta em caminhos com o atalho CTRL-SHIFT-C;
+- Em seguida pressione CTRL-J;
+
+- Vá em (EXTENSIONS>GCODETOOLS>TOOLS LIBRARY);
+- Defina o tipo de ferramenta ou broca e irá utilizar (No caso desse script usaremos uma broca cilindrica)  ;
+
+** Aparecerá uma caixa verde no espaço de trabalho **
+- Em diameter defina o diametro da broca;
+- Defina o feed, q é a velocidade de avanço em mm/s;
+- Defina o angulo de penetração;
+
+- Vá em (EXTENSIONS>GCODETOOLS>PATH TO GCODE ## ou caminho para gcode ##);
+-
+
