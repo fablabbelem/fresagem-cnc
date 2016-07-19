@@ -1,0 +1,9 @@
+Setup de fresagem suporte de cabos em acrilico
+
+-Broca de: 1.27mm
+-Cutting feedrate: 400mm/min
+-Tabs W: 1mm
+      H: 0.3075mm
+-Fatiamento de 0.5mm para um material de 2.43mm
+
+## Modelado apartir de arquivo feito para cortadora laser, inportado para o Fusion 360 e nele gerado gcode para fresagem ## (até o momento do teste de frsagem desta peça, ainda nao se sabia da possibilidade de usar softwares livres como o inskscape para isso)
